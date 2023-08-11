@@ -1,0 +1,74 @@
+#Packets: 3007
+	 - IPv4: 
+		 - #Packets: 3007.00, Smallest: 20.00, Largest: 5514.00, Average Size: 259.65
+
+	 - #Fragmented: {'TCP': 0, 'UDP': 0, 'ICMP': 0}
+	 - ICMP: 
+		 - #Packets: 73.00, Smallest: 64.00, Largest: 153.00, Average Size: 77.45
+
+	 - TCP: 
+		 - #Packets: 2308.00, Smallest: 20.00, Largest: 5514.00, Average Size: 315.57
+
+	 - HTTP: 
+		 - #Packets: 412.00, Smallest: 20.00, Largest: 4400.00, Average Size: 239.34
+
+	 - HTTPS: 
+		 - #Packets: 1896.00, Smallest: 20.00, Largest: 5514.00, Average Size: 332.13
+
+	 - FTP: 
+		 - #Packets: 0.00, Smallest: 0.00, Largest: 0.00, Average Size: 0.00
+
+	 - UDP: 
+		 - #Packets: 626.00, Smallest: 34.00, Largest: 329.00, Average Size: 74.72
+
+	 - DNS: 
+		 - #Packets: 626.00, Smallest: 34.00, Largest: 329.00, Average Size: 74.72
+
+Top 10 Most Frequent Source IPs
+	 - IP: 172.16.188.133, Frequency: 1327
+	 - IP: 13.107.21.200, Frequency: 253
+	 - IP: 127.0.0.1, Frequency: 216
+	 - IP: 127.0.0.53, Frequency: 202
+	 - IP: 92.242.195.4, Frequency: 115
+	 - IP: 172.217.18.129, Frequency: 111
+	 - IP: 172.16.188.2, Frequency: 106
+	 - IP: 151.101.65.69, Frequency: 98
+	 - IP: 216.58.209.130, Frequency: 89
+	 - IP: 172.217.169.226, Frequency: 68
+
+Top 10 Most Frequent Destination IPs
+	 - IP: 172.16.188.133, Frequency: 1262
+	 - IP: 13.107.21.200, Frequency: 265
+	 - IP: 127.0.0.53, Frequency: 216
+	 - IP: 127.0.0.1, Frequency: 202
+	 - IP: 92.242.195.4, Frequency: 143
+	 - IP: 172.16.188.2, Frequency: 117
+	 - IP: 172.217.18.129, Frequency: 105
+	 - IP: 151.101.65.69, Frequency: 93
+	 - IP: 216.58.209.130, Frequency: 78
+	 - IP: 104.26.0.8, Frequency: 58
+
+Top 10 Most Frequent Source Ports
+	 - Port: 443, Frequency: 946
+	 - Port: 53, Frequency: 308
+	 - Port: 80, Frequency: 181
+	 - Port: 48100, Frequency: 121
+	 - Port: 45398, Frequency: 93
+	 - Port: 45584, Frequency: 57
+	 - Port: 59678, Frequency: 34
+	 - Port: 38332, Frequency: 32
+	 - Port: 50176, Frequency: 22
+	 - Port: 49168, Frequency: 20
+
+Top 10 Most Frequent Destination Ports
+	 - Port: 443, Frequency: 950
+	 - Port: 53, Frequency: 318
+	 - Port: 80, Frequency: 231
+	 - Port: 48100, Frequency: 127
+	 - Port: 45398, Frequency: 98
+	 - Port: 45584, Frequency: 70
+	 - Port: 38332, Frequency: 42
+	 - Port: 59678, Frequency: 37
+	 - Port: 49168, Frequency: 28
+	 - Port: 49092, Frequency: 21
+
