@@ -25,13 +25,13 @@ packets in real-time. After execution, it also generates a text file with summar
 - Max, average, and min packet sizes
 
 Additionally, the sniffer visualizes the above metrics using matplotlib plots. It can analyze protocols like DNS and
-HTTP beyond IPv4.
+HTTP beyond IPv4. Figures below are example outputs of the programs.
 
-|                             Transport Layer Protocols                             |                             Source IP Frequency                              |
-|:---------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| ![Transport](packet-sniffer/Sample Report 05:47:30/Transport Layer Protocols.png) | ![movie page](packet-sniffer/Sample Report 05:47:30/Source IP Frequency.png) |
-|                                  App protos size                                  |                                 Sample logs                                  |
-|   ![App Protos Size](packet-sniffer/Sample Report 05:47:30/App Protos Size.png)   |       ![logs](packet-sniffer/Sample Report 05:47:30/sample output.png)       |
+|                       Transport Layer Protocols                       |                       Source IP Frequency                        |
+|:---------------------------------------------------------------------:|:----------------------------------------------------------------:|
+| ![Transport](packet-sniffer/SampleReport/TransportLayerProtocols.png) | ![movie page](packet-sniffer/SampleReport/SourceIPFrequency.png) |
+|                            App protos size                            |                           Sample logs                            |
+|   ![App Protos Size](packet-sniffer/SampleReport/AppProtosSize.png)   |      ![logs](packet-sniffer/SampleReport/SampleOutput.png)       |
 
 ## Project 3: Mininet Topology
 
