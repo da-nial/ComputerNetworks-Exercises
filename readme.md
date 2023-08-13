@@ -3,7 +3,7 @@
 This repository contains the code and documentation for three practical projects completed for the Computer Networks
 course.
 
-A complete description of each project can be found in the 'docs/instructions.pdf' and 'docs/report.pdf' files for each
+A complete description of each project can be found in the `docs/instructions.pdf` and `docs/report.pdf` files for each
 respective project. (in Persian)
 
 ## Project 1: Chat Application
