@@ -3,8 +3,7 @@
 This repository contains the code and documentation for three practical projects completed for the Computer Networks
 course.
 
-A complete description of each project can be found in the `docs/instructions.pdf` and `docs/report.pdf` files for each
-respective project. (in Persian)
+Complete documentation for each project can be found in the `docs/instructions.pdf` and `docs/report.pdf` files in their directory. (in Persian)
 
 ## Project 1: Chat Application
 
@@ -20,12 +19,12 @@ The second project is an IPv4 packet sniffer implemented in Python. When run, it
 packets in real-time. After execution, it also generates a text file with summary statistics:
 
 - Total number of TCP, UDP, and ICMP packets
-- List of sender IP addresses sorted by number of packets sent
+- List of sender IP addresses sorted by the number of packets sent
 - Number of packets sent
 - Max, average, and min packet sizes
 
 Additionally, the sniffer visualizes the above metrics using matplotlib plots. It can analyze protocols like DNS and
-HTTP beyond IPv4. Figures below are example outputs of the programs.
+HTTP beyond IPv4. The figures below are example outputs of the programs.
 
 |                       Transport Layer Protocols                       |                       Source IP Frequency                        |
 |:---------------------------------------------------------------------:|:----------------------------------------------------------------:|
