@@ -35,7 +35,7 @@ HTTP beyond IPv4. The figures below are example outputs of the programs.
 ## Project 3: Mininet Topology
 
 The third project follows
-a [Mininet tutorial](https://homepages.dcc.ufmg.br/~mmvieira/cc/OpenFlow%20Tutorial%20-%20OpenFlow%20Wiki.htm) to set up
+a [Mininet tutorial](https://homepages.dcc.ufmg.br/~mmvieira/cc/OpenFlow%20Tutorial%20-%20OpenFlow%20Wiki.htm) with some sample codes (credit goes to the author mentioned in the files) to set up
 a simple network topology with a switch and router. The topology is created programmatically and tested within the
 Mininet environment.
 
